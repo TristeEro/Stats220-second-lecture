@@ -11,4 +11,4 @@
 
 ![music](https://nztop40.co.nz/chart/singles)
 ![wallpaper](wallhaven-9dm7dd_1920x1080.png)
-[click](https://duckduckgo.com)
+[Link to duckduckgo](https://duckduckgo.com)
